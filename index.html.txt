@@ -16,3 +16,4 @@ branch
 원격저장소
 push
 pull
+push.one
