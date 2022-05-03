@@ -14,3 +14,5 @@
 branch
 실험22
 원격저장소
+push
+pull
