@@ -20,3 +20,4 @@ pull
 push.one
 pull.hub
 conflict.one
+conflict.hub
