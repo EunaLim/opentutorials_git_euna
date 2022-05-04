@@ -18,3 +18,4 @@ push
 pull
 push.one
 pull.hub
+conflict.hub
